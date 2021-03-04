@@ -1,15 +1,16 @@
-id: opecha:P000397
+id: P000397
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG09694
   title: གྲུབ་མཐའི་རྣམ་བཤད་ཀུན་བཟང་ཞིང་གི་ཉི་མ་
-  volume:
+  author: ''
+  volumes:
     b89d1201366d42feb94fdd28d2a1fd23:
       image_group_id: I00KG09712
       title: Volume 1 of grub mtha'i rnam bshad kun bzang zhing gi nyi ma
       volume_number: 1
       total_pages: 978
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྲུབ་མཐའི་རྣམ་བཤད་ཀུན་བཟང་ཞིང་གི་ཉི་མ་
   author: ''
